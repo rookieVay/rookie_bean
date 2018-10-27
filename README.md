@@ -1,6 +1,6 @@
-# rookie_movie
+# rookie_bean
 
-> 电影
+> 仿豆
 
 ## Build Setup
 
